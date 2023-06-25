@@ -36,8 +36,8 @@
 [算法竞赛入门经典完整版(ACM竞赛入门经典).pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8%E5%AE%8C%E6%95%B4%E7%89%88(ACM%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8).pdf)<br>
 [编程之美.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.pdf)<br>
 [编程珠玑(第2版).pd](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(%E7%AC%AC2%E7%89%88).pdf)<br>
-labuladong的算法小抄官方完整版.pdf<br>
-算法导论(第三版).pdf
+[labuladong的算法小抄官方完整版.pdf](https://pan.baidu.com/s/1VbpB9GoDjcHbLtJmPRhDKw?pwd=9h56)<br>
+[算法导论(第三版).pdf](https://pan.baidu.com/s/1uPsGH7oKRJj1gDP1fmeB3Q?pwd=p1jl)<br>
 
 ### Java
 [Java 8函数式编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%208%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)<br>
@@ -68,22 +68,22 @@ labuladong的算法小抄官方完整版.pdf<br>
 [深入理解Nginx：模块开发与架构解析(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%EF%BC%9A%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90(%E7%AC%AC2%E7%89%88).pdf)<br>
 [重构_改善既有代码的设计.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E9%87%8D%E6%9E%84_%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1.pdf)<br>
 [阿里大佬总结的Java面试资料.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/interview/%E9%98%BF%E9%87%8C%E5%A4%A7%E4%BD%AC%E6%80%BB%E7%BB%93%E7%9A%84Java%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99.pdf)<br>
-Java核心技术卷1：基础知识(第10版).pdf<br>
-Java核心技术卷2：高级特性(第10版).pdf<br>
-码出高效Java开发手册.pdf<br>
-Effective Java 中文版.pdf<br>
-Java高并发编程详解-多线程与架构设计.pdf<br>
-Java性能优化权威指南.pdf<br>
-Spring源码深度解析(第2版).pdf<br>
-揭秘Java虚拟机-JVM设计原理与实现.pdf<br>
-深入理解Java虚拟机 JVM高级特性与最佳实践.pdf<br>
-Apache Kafka实战.pdf<br>
-RocketMQ实战与原理解析.pdf<br>
-Spring Cloud微服务实战.pdf<br>
-从Paxos到Zookeeper  分布式一致性原理与实践.pdf<br>
-大型网站技术架构演进与性能优化.pdf<br>
-分布式服务架构：原理、设计与实战.pdf<br>
-亿级流量网站架构核心技术.pdf<br>
+[Java核心技术卷1：基础知识(第10版).pdf](https://pan.baidu.com/s/14J0yltLeIdlT0Ovj4hPqlQ?pwd=c783)<br>
+[Java核心技术卷2：高级特性(第10版).pdf](https://pan.baidu.com/s/1YSR0Yi97gj0AXJwCW48k7g?pwd=qbeg)<br>
+[码出高效Java开发手册.pdf](https://pan.baidu.com/s/12lAnW3tEvJRJ_0nik8G3Tg?pwd=su57)<br>
+[Effective Java 中文版.pdf](https://pan.baidu.com/s/1IFoH3rh4dPgEoTjAeanXog?pwd=z176)<br>
+[Java高并发编程详解-多线程与架构设计.pdf](https://pan.baidu.com/s/1F2MBFufGIuz7RLXLHpBe2A?pwd=gx8o)<br>
+[Java性能优化权威指南.pdf](https://pan.baidu.com/s/1rIKgRoDXWzd7Pt5MzqGjKQ?pwd=uy7p)<br>
+[Spring源码深度解析(第2版).pdf](https://pan.baidu.com/s/1rcYA6mCu3GBCAlR93YeSlw?pwd=7s0v)<br>
+[揭秘Java虚拟机-JVM设计原理与实现.pdf](https://pan.baidu.com/s/1D7RxXBUvJd480kTh8sDSwg?pwd=c9ug)<br>
+[深入理解Java虚拟机 JVM高级特性与最佳实践.pdf](https://pan.baidu.com/s/1HAFeHCGeoxKMKL4YWd3LDg?pwd=qgwe)<br>
+[Apache Kafka实战.pdf](https://pan.baidu.com/s/1G4C2AP19WJz-7d4ij2i5KQ?pwd=q5nk)<br>
+[RocketMQ实战与原理解析.pdf](https://pan.baidu.com/s/1VHFnsw79cjtMeWSFMbutRA?pwd=6kg0)<br>
+[Spring Cloud微服务实战.pdf](https://pan.baidu.com/s/1ZXDgEC2iNeLudTyW101zJg?pwd=8nnq)<br>
+[从Paxos到Zookeeper  分布式一致性原理与实践.pdf](https://pan.baidu.com/s/1G7rm2ZIqE20DMP0Qgi935Q?pwd=l90t)<br>
+[大型网站技术架构演进与性能优化.pdf](https://pan.baidu.com/s/1rl_CwrR1KdWySXW1Auae8A?pwd=8qlh)<br>
+[分布式服务架构：原理、设计与实战.pdf](https://pan.baidu.com/s/1frAY9x-yrThLvmZX2EyP2A?pwd=8x9a)<br>
+[亿级流量网站架构核心技术.pdf](https://pan.baidu.com/s/1aDiMdb88HcmPQ0piaYyuFw?pwd=hrxr)<br>
 
 ### Scala
   [Scala-in-Depth.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala-in-Depth.pdf)<br>
@@ -180,4 +180,7 @@ TCP-IP详解卷1：协议 原书第2版.pdf<br>
 [再要你命3000.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E5%86%8D%E8%A6%81%E4%BD%A0%E5%91%BD3000.pdf)<br>
 [薄冰英语语法.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E8%96%84%E5%86%B0%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95.pdf)<br>
 [要你命3000.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E8%A6%81%E4%BD%A0%E5%91%BD3000.pdf)<br>
+
+### 设计模式
+[设计模式之禅.pdf](https://github.com/HangboQuan/cs-books/blob/master/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85.pdf)<br>
 
