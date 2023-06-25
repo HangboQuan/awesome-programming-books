@@ -1,5 +1,18 @@
 # cs-books
-计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、程序员数学、程序员英语等电子书。愿大家升值加薪，走上人生巅峰。<br>
+计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书。愿大家升值加薪，走上人生巅峰。<br>
+
+### 计算机通识
+[代码大全(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8(%E7%AC%AC2%E7%89%88).pdf)<br>
+[代码整洁之道.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)<br>
+[码农翻身：用故事给技术加点料.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E7%A0%81%E5%86%9C%E7%BF%BB%E8%BA%AB%EF%BC%9A%E7%94%A8%E6%95%85%E4%BA%8B%E7%BB%99%E6%8A%80%E6%9C%AF%E5%8A%A0%E7%82%B9%E6%96%99.pdf)<br>
+[程序是怎样跑起来的.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.pdf)<br>
+[编码的奥秘.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E7%BC%96%E7%A0%81%E7%9A%84%E5%A5%A5%E7%A7%98.pdf)<br>
+[编译原理.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86.pdf)<br>
+[网络是怎样连接的.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84.pdf)<br>
+[计算之魂.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E8%AE%A1%E7%AE%97%E4%B9%8B%E9%AD%82.pdf)<br>
+[计算机是怎样跑起来的.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.pdf)<br>
+[计算机程序的构造和解释(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A(%E7%AC%AC2%E7%89%88).pdf)<br>
+
 
 ### 数据结构和算法
 [ACM国际大学生程序设计竞赛：算法与实现.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/ACM%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B%EF%BC%9A%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)<br>
@@ -136,3 +149,9 @@
 [线性代数应该这样学(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%BA%94%E8%AF%A5%E8%BF%99%E6%A0%B7%E5%AD%A6(%E7%AC%AC3%E7%89%88).pdf)<br>
 [组合数学(第4版)卢开澄,卢华明著.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6(%E7%AC%AC4%E7%89%88)%E5%8D%A2%E5%BC%80%E6%BE%84%2C%E5%8D%A2%E5%8D%8E%E6%98%8E%E8%91%97.pdf)<br>
 [统计学习方法(第2版)李航.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E7%AC%AC2%E7%89%88)%E6%9D%8E%E8%88%AA.pdf)<br>
+
+### 英语
+[再要你命3000.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E5%86%8D%E8%A6%81%E4%BD%A0%E5%91%BD3000.pdf)<br>
+[薄冰英语语法.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E8%96%84%E5%86%B0%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95.pdf)<br>
+[要你命3000.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E8%A6%81%E4%BD%A0%E5%91%BD3000.pdf)<br>
+
