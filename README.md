@@ -1,5 +1,5 @@
 # cs-books
-计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue、网络、操作系统、Linux、程序员数学、程序员英语等电子书。愿大家升值加薪，走上人生巅峰。<br>
+计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、Linux、程序员数学、程序员英语等电子书。愿大家升值加薪，走上人生巅峰。<br>
 
 ### 数据结构和算法
 [ACM国际大学生程序设计竞赛：算法与实现.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/ACM%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B%EF%BC%9A%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)<br>
@@ -18,4 +18,16 @@
 [编程之美.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.pdf)<br>
 [编程珠玑(第2版).pd](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(%E7%AC%AC2%E7%89%88).pdf)<br>
 
+### 编程语言
+- #### Java
+    - ##### Java基础
+      [Java 8函数式编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%208%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)<br>
+      [Java 8实战.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%208%E5%AE%9E%E6%88%98.pdf)<br>
+      [Java多线程编程核心技术.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)<br>
+      [Java工程师修炼之道.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)<br>
+      [Java程序员修炼之道.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)<br>
+      [Java编程思想第四版.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)<br>
+      [Java编程的逻辑.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%E7%BC%96%E7%A8%8B%E7%9A%84%E9%80%BB%E8%BE%91.pdf)<br>
+      [深入浅出Java多线程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAJava%E5%A4%9A%E7%BA%BF%E7%A8%8B.pdf)<br>
+      [阿里巴巴Java开发手册(泰山版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C(%E6%B3%B0%E5%B1%B1%E7%89%88).pdf)<br>
 
