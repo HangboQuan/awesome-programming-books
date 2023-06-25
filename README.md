@@ -90,4 +90,49 @@
      [深入浅出Nodejs.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs.pdf)<br>
      [深入理解ES6.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6.pdf)<br>
      [精通正则表达式(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E7%B2%BE%E9%80%9A%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F(%E7%AC%AC3%E7%89%88).pdf)<br>
- 
+
+
+ ### 计算机网络
+ [HTTP权威指南.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)<br>
+ [TCP-IP详解卷三：TCP事务协议、HTTP、NNTP和UNIX域协议.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7%E4%B8%89%EF%BC%9ATCP%E4%BA%8B%E5%8A%A1%E5%8D%8F%E8%AE%AE%E3%80%81HTTP%E3%80%81NNTP%E5%92%8CUNIX%E5%9F%9F%E5%8D%8F%E8%AE%AE.pdf)<br>
+ [TCP-IP详解卷二：实现.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7%E4%BA%8C%EF%BC%9A%E5%AE%9E%E7%8E%B0.pdf)<br>
+ [图解HTTP.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/%E5%9B%BE%E8%A7%A3HTTP.pdf)<br>
+ [图解TCP-IP.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/%E5%9B%BE%E8%A7%A3TCP-IP.pdf)<br>
+ [计算机网络-第7版-谢希仁.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E7%AC%AC7%E7%89%88-%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)<br>
+
+ ### 操作系统
+ [Linux内核设计与实现(第三版).pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)<br>
+ [UNIX环境高级编程(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/UNIX%E7%8E%AF%E5%A2%83%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B(%E7%AC%AC3%E7%89%88).pdf)<br>
+ [深入Linux内核架构.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E6%B7%B1%E5%85%A5Linux%E5%86%85%E6%A0%B8%E6%9E%B6%E6%9E%84.pdf)<br>
+ [深入理解Linux内核.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Linux%E5%86%85%E6%A0%B8.pdf)<br>
+ [现代操作系统.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)<br>
+ [程序员自我修养.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.pdf)<br>
+
+### Redis
+[Redis实战.pdf](https://github.com/HangboQuan/cs-books/blob/master/redis/Redis%E5%AE%9E%E6%88%98.pdf)<br>
+[Redis开发与运维(付磊).pdf](https://github.com/HangboQuan/cs-books/blob/master/redis/Redis%E5%BC%80%E5%8F%91%E4%B8%8E%E8%BF%90%E7%BB%B4(%E4%BB%98%E7%A3%8A).pdf)<br>
+[Redis深度历险：核心原理和应用实践.pdf](https://github.com/HangboQuan/cs-books/blob/master/redis/Redis%E6%B7%B1%E5%BA%A6%E5%8E%86%E9%99%A9%EF%BC%9A%E6%A0%B8%E5%BF%83%E5%8E%9F%E7%90%86%E5%92%8C%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5.pdf)<br>
+[Redis设计与实现.pdf](https://github.com/HangboQuan/cs-books/blob/master/redis/Redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)<br>
+
+### SQL
+[MongoDB权威指南(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/MongoDB%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97(%E7%AC%AC2%E7%89%88).pdf)<br>
+[MySQL必知必会.pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/MySQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A.pdf)<br>
+[SQL必知必会(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/SQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A(%E7%AC%AC3%E7%89%88).pdf)<br>
+[高可用MySQL 构建健壮的数据中心.pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/%E9%AB%98%E5%8F%AF%E7%94%A8MySQL%20%E6%9E%84%E5%BB%BA%E5%81%A5%E5%A3%AE%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.pdf)<br>
+[高性能mysql第三版.pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/%E9%AB%98%E6%80%A7%E8%83%BDmysql%E7%AC%AC%E4%B8%89%E7%89%88.pdf)<br>
+
+### 数学
+[具体数学.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6.pdf)<br>
+[基础拓扑学.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E5%9F%BA%E7%A1%80%E6%8B%93%E6%89%91%E5%AD%A6.pdf)<br>
+[数学之美.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)<br>
+[普林斯顿微积分读本.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E5%BE%AE%E7%A7%AF%E5%88%86%E8%AF%BB%E6%9C%AC.pdf)<br>
+[概率论及其应用(第三版).中文版.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E6%A6%82%E7%8E%87%E8%AE%BA%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8(%E7%AC%AC%E4%B8%89%E7%89%88).%E4%B8%AD%E6%96%87%E7%89%88.pdf)<br>
+[深度学习的数学.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)<br>
+[离散数学及其应用(原书第6版).pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8(%E5%8E%9F%E4%B9%A6%E7%AC%AC6%E7%89%88).pdf)<br>
+[离散数学及其应用(第6版)-中文版.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8(%E7%AC%AC6%E7%89%88)-%E4%B8%AD%E6%96%87%E7%89%88.pdf)<br>
+[程序员的数学.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A6.pdf)<br>
+[程序员的数学2-概率统计.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A62-%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1.pdf)<br>
+[程序员的数学3-线性代数.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%95%B0%E5%AD%A63-%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.pdf)<br>
+[线性代数应该这样学(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%BA%94%E8%AF%A5%E8%BF%99%E6%A0%B7%E5%AD%A6(%E7%AC%AC3%E7%89%88).pdf)<br>
+[组合数学(第4版)卢开澄,卢华明著.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6(%E7%AC%AC4%E7%89%88)%E5%8D%A2%E5%BC%80%E6%BE%84%2C%E5%8D%A2%E5%8D%8E%E6%98%8E%E8%91%97.pdf)<br>
+[统计学习方法(第2版)李航.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E7%AC%AC2%E7%89%88)%E6%9D%8E%E8%88%AA.pdf)<br>
