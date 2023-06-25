@@ -30,4 +30,14 @@
       [Java编程的逻辑.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%E7%BC%96%E7%A8%8B%E7%9A%84%E9%80%BB%E8%BE%91.pdf)<br>
       [深入浅出Java多线程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAJava%E5%A4%9A%E7%BA%BF%E7%A8%8B.pdf)<br>
       [阿里巴巴Java开发手册(泰山版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C(%E6%B3%B0%E5%B1%B1%E7%89%88).pdf)<br>
+  - ##### Java进阶
+    [Head First Java中文版.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Head%20First%20Java%E4%B8%AD%E6%96%87%E7%89%88.pdf)<br>
+    [Java并发编程 核心方法与框架.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%20%E6%A0%B8%E5%BF%83%E6%96%B9%E6%B3%95%E4%B8%8E%E6%A1%86%E6%9E%B6.pdf)<br>
+    [Java并发编程实战.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)<br>
+    [Java并发编程的艺术.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)<br>
+    [Java性能权威指南.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Java%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)<br>
+    [Spring技术内幕：深入解析Spring架构与设计原理.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Spring%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%EF%BC%9A%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90Spring%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86.pdf)<br>
+    [图解Java多线程设计模式.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E5%9B%BE%E8%A7%A3Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)<br>
+    [实战Java高并发程序设计.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E5%AE%9E%E6%88%98Java%E9%AB%98%E5%B9%B6%E5%8F%91%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf)<br>
+    [精通Spring.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E7%B2%BE%E9%80%9ASpring.pdf)<br>
 
