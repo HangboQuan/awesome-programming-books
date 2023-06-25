@@ -1,11 +1,9 @@
 # cs-books
-计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书。愿大家升值加薪，走上人生巅峰。
-***注：该仓库会不定时更新, 所有资料来源于互联网, 如有侵权请及时联系我删除***<br>
+计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书。整理不易，对您有帮助的话，点个star支持一下吧，愿大家升值加薪，走上人生巅峰。<br><br>
+***注：该仓库会不定时更新, 所有资料来源于互联网, 如有侵权请及时联系我删除***<br><br>
 
 > 本人2021年毕业，后端研发工作于小米，主要语言为Java/Scala，负责小爱同学闲聊垂域和闲聊技能的研发工作<br>
 交个朋友：wx: 18392710807
-
-另：github对超过100MB的会有限制，部分资料可以在百度网盘中查找：https://pan.baidu.com/s/174iO765V8Qn4VlccWXDIEA (提取码：sr7h)
 
 ### 计算机通识
 [代码大全(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8(%E7%AC%AC2%E7%89%88).pdf)<br>
@@ -186,3 +184,5 @@
 
 ### Linux
 [性能之巅 洞悉系统、企业与云计算.pdf](https://pan.baidu.com/s/13X7-v9fAl04VRY5JIOTz0Q?pwd=rlow)<br>
+
+备份数据：https://pan.baidu.com/s/1B7QAjzo9Vann5T9V4oYBgA  (提取码：u7l5)
