@@ -53,4 +53,12 @@
     [重构_改善既有代码的设计.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E9%87%8D%E6%9E%84_%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1.pdf)<br>
   - ##### Java面试
     [阿里大佬总结的Java面试资料.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/interview/%E9%98%BF%E9%87%8C%E5%A4%A7%E4%BD%AC%E6%80%BB%E7%BB%93%E7%9A%84Java%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99.pdf)<br>
+- #### Scala
+  [Scala-in-Depth.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala-in-Depth.pdf)<br>
+  [Scala函数式编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)<br>
+  [Scala学习手册.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C.pdf)<br>
+  [Scala编程-第4版.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala%E7%BC%96%E7%A8%8B-%E7%AC%AC4%E7%89%88.pdf)<br>
+  [Scala编程思想.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3.pdf)<br>
+  [Scala谜题.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala%E8%B0%9C%E9%A2%98.pdf)<br>
+  [快学Scala.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/%E5%BF%AB%E5%AD%A6Scala.pdf)<br>
 
