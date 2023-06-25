@@ -74,6 +74,20 @@
   [Python深度学习.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)<br>
   [python编程从入门到实践(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5(%E7%AC%AC2%E7%89%88).pdf)<br>
   [流畅的python.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)<br>
-  
-  
-  
+- #### Go
+  [GO专家编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/GO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.pdf)<br>  
+  [Go Web 编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)<br>
+  [Go语言实战.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)<br>
+- #### 前端
+     [ECMAScript 6入门.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/ECMAScript%206%E5%85%A5%E9%97%A8.pdf)<br>
+     [Effective JavaScript.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/Effective%20JavaScript.pdf)<br>
+     [JavaScript权威指南(第6版)(中文版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97(%E7%AC%AC6%E7%89%88)(%E4%B8%AD%E6%96%87%E7%89%88).pdf)<br>
+     [JavaScript高级程序设计(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1(%E7%AC%AC3%E7%89%88).pdf)<br>
+     [Vue.js设计与实现.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/Vue.js%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)<br>
+     [你不知道的JavaScript(上卷).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript(%E4%B8%8A%E5%8D%B7).pdf)<br>
+     [你不知道的JavaScript(下卷).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript(%E4%B8%8B%E5%8D%B7).pdf)<br>
+     [你不知道的JavaScript(中卷).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript(%E4%B8%AD%E5%8D%B7).pdf)<br>
+     [深入浅出Nodejs.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs.pdf)<br>
+     [深入理解ES6.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6.pdf)<br>
+     [精通正则表达式(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E7%B2%BE%E9%80%9A%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F(%E7%AC%AC3%E7%89%88).pdf)<br>
+ 
