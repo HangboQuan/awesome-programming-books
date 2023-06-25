@@ -101,7 +101,7 @@
   [More Effective C++中文版.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/More%20Effective%20C%2B%2B%E4%B8%AD%E6%96%87%E7%89%88.pdf)<br>
   [STL源码剖析.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/STL%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf)<br>
   [深度探索C++对象模型.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2C%2B%2B%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B.pdf)<br>
-  C++ Primer Plus(第6版).pdf<br>
+  [C++ Primer Plus(第6版).pdf](https://pan.baidu.com/s/1LarSjcx4pMamxfmMEHnTng?pwd=hsl3)<br>
 ### Python
   [Python Crash Course 2nd.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/Python%20Crash%20Course%202nd.pdf)<br>
   [Python深度学习.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)<br>
@@ -111,7 +111,7 @@
   [GO专家编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/GO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.pdf)<br> 
   [Go Web 编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)<br>
   [Go语言实战.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)<br>
-  GO程序设计语言.pdf<br>
+  [GO程序设计语言.pdf](https://pan.baidu.com/s/1GFSSPZW9CMEs0_71GkwvcQ?pwd=tejj)<br>
  ### 前端
 [ECMAScript 6入门.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/ECMAScript%206%E5%85%A5%E9%97%A8.pdf)<br>
      [Effective JavaScript.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/Effective%20JavaScript.pdf)<br>
@@ -124,8 +124,8 @@
      [深入浅出Nodejs.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs.pdf)<br>
      [深入理解ES6.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6.pdf)<br>
      [精通正则表达式(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E7%B2%BE%E9%80%9A%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F(%E7%AC%AC3%E7%89%88).pdf)<br>
-     JavaScript DOM编程艺术(第2版).pdf<br>
-     锋利的jQuery.pdf<br>
+     [JavaScript DOM编程艺术(第2版).pdf](https://pan.baidu.com/s/1DW-LHNnBK4HHsE4o78XYZQ?pwd=5tpl)<br>
+     [锋利的jQuery.pdf](https://pan.baidu.com/s/1Z0qGNZBjw7laRxuA6fIk_Q?pwd=9zj0)<br>
 
 
  ### 计算机网络
@@ -135,8 +135,8 @@
 [图解HTTP.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/%E5%9B%BE%E8%A7%A3HTTP.pdf)<br>
 [图解TCP-IP.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/%E5%9B%BE%E8%A7%A3TCP-IP.pdf)<br>
 [计算机网络-第7版-谢希仁.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E7%AC%AC7%E7%89%88-%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)<br>
-TCP-IP详解卷1：协议 原书第2版.pdf<br>
-计算机网络-自顶向下方法.pdf<br>
+[TCP-IP详解卷1：协议 原书第2版.pdf](https://pan.baidu.com/s/1tJyyvyRjkM2LPLvQFaCwCQ?pwd=kgdg)<br>
+[计算机网络-自顶向下方法.pdf](https://pan.baidu.com/s/18yXUsvD8OnosCMuJoMLQ6g?pwd=2alt)<br>
 
  ### 操作系统
 [Linux内核设计与实现(第三版).pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)<br>
@@ -145,7 +145,7 @@ TCP-IP详解卷1：协议 原书第2版.pdf<br>
 [深入理解Linux内核.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Linux%E5%86%85%E6%A0%B8.pdf)<br>
 [现代操作系统.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)<br>
 [程序员自我修养.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.pdf)<br>
-深入理解计算机系统第三版.pdf<br>
+[深入理解计算机系统第三版.pdf](https://pan.baidu.com/s/1mLa9TluNsugrL4O_wtxsAw?pwd=tj8f)<br>
 
 ### Redis
 [Redis实战.pdf](https://github.com/HangboQuan/cs-books/blob/master/redis/Redis%E5%AE%9E%E6%88%98.pdf)<br>
@@ -184,3 +184,5 @@ TCP-IP详解卷1：协议 原书第2版.pdf<br>
 ### 设计模式
 [设计模式之禅.pdf](https://github.com/HangboQuan/cs-books/blob/master/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85.pdf)<br>
 
+### Linux
+[性能之巅 洞悉系统、企业与云计算.pdf](https://pan.baidu.com/s/13X7-v9fAl04VRY5JIOTz0Q?pwd=rlow)<br>
