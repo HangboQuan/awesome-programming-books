@@ -1,5 +1,5 @@
 # cs-books
-计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、Linux、程序员数学、程序员英语等电子书。愿大家升值加薪，走上人生巅峰。<br>
+计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、程序员数学、程序员英语等电子书。愿大家升值加薪，走上人生巅峰。<br>
 
 ### 数据结构和算法
 [ACM国际大学生程序设计竞赛：算法与实现.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/ACM%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B%EF%BC%9A%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)<br>
@@ -61,4 +61,19 @@
   [Scala编程思想.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3.pdf)<br>
   [Scala谜题.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala%E8%B0%9C%E9%A2%98.pdf)<br>
   [快学Scala.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/%E5%BF%AB%E5%AD%A6Scala.pdf)<br>
-
+- #### C++
+  [C++标准程序库.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/C%2B%2B%E6%A0%87%E5%87%86%E7%A8%8B%E5%BA%8F%E5%BA%93.pdf)<br>
+  [C和指针(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/C%E5%92%8C%E6%8C%87%E9%92%88(%E7%AC%AC2%E7%89%88).pdf)<br>
+  [C程序设计语言.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80.pdf)<br>
+  [Effective C++中文版.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/Effective%20C%2B%2B%E4%B8%AD%E6%96%87%E7%89%88.pdf)<br>
+  [More Effective C++中文版.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/More%20Effective%20C%2B%2B%E4%B8%AD%E6%96%87%E7%89%88.pdf)<br>
+  [STL源码剖析.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/STL%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf)<br>
+  [深度探索C++对象模型.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2C%2B%2B%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B.pdf)<br>
+- #### Python
+  [Python Crash Course 2nd.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/Python%20Crash%20Course%202nd.pdf)<br>
+  [Python深度学习.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)<br>
+  [python编程从入门到实践(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5(%E7%AC%AC2%E7%89%88).pdf)<br>
+  [流畅的python.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)<br>
+  
+  
+  
