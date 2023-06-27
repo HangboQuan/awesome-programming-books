@@ -2,10 +2,10 @@
 计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书。整理不易，对您有帮助的话，点个star支持一下吧，愿大家升值加薪，走上人生巅峰。<br><br>
 ***注：该仓库会不定时更新, 所有资料来源于互联网, 如有侵权请及时联系我删除***<br><br>
 
-> 本人2021年毕业，后端研发工作于小米，主要语言为Java/Scala，负责小爱同学闲聊垂域和闲聊技能的研发工作<br>
-交个朋友：wx: 18392710807
+> 本人2021年毕业，后端研发工作于小米，主要语言为Java/Scala，负责小爱同学闲聊垂域和闲聊技能的研发工作(<a href='#head'>迷茫救药</a>)<br>
+交个朋友wx: 18392710807
 
-<a id='head'>ALIBABA招聘要求</a>
+
 ### 计算机通识
 [代码大全(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8(%E7%AC%AC2%E7%89%88).pdf)<br>
 [代码整洁之道.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)<br>
@@ -188,7 +188,7 @@
 
 备份数据：https://pan.baidu.com/s/1B7QAjzo9Vann5T9V4oYBgA  (提取码：u7l5)
 
-<a href='#head'>ALIBABA招聘</a>
+<a id='head'>ALIBABA招聘要求</a>
 > 1~3年经验
 > 1. Java基础扎实，熟悉web应用开发，对于Java基础技术体系(多线程、IO、网络、反射、集合)有一定的掌握和应用<br>
 > 2. 扎实的Java编程基础，熟悉应用Java生态相关开源框架以及中间件(Spring、Mybatis、Cache、Dubbo等)，有深入运用、实践、重构经验者优先<br>
