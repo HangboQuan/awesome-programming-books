@@ -1,5 +1,9 @@
 # cs-books
-计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书。愿大家升值加薪，走上人生巅峰。<br>
+计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书。整理不易，对您有帮助的话，点个star支持一下吧，愿大家升值加薪，走上人生巅峰。<br><br>
+***注：该仓库会不定时更新, 所有资料来源于互联网, 如有侵权请及时联系我删除***  ***<a href='#head'>迷茫救药</a>***<br><br>
+
+> 本人2021年毕业，后端研发工作于小米，主要语言为Java/Scala，负责小爱同学闲聊垂域和闲聊技能的研发工作<br>
+
 
 ### 计算机通识
 [代码大全(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8(%E7%AC%AC2%E7%89%88).pdf)<br>
@@ -30,6 +34,8 @@
 [算法竞赛入门经典完整版(ACM竞赛入门经典).pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8%E5%AE%8C%E6%95%B4%E7%89%88(ACM%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8).pdf)<br>
 [编程之美.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E.pdf)<br>
 [编程珠玑(第2版).pd](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(%E7%AC%AC2%E7%89%88).pdf)<br>
+[labuladong的算法小抄官方完整版.pdf](https://pan.baidu.com/s/1VbpB9GoDjcHbLtJmPRhDKw?pwd=9h56)<br>
+[算法导论(第三版).pdf](https://pan.baidu.com/s/1uPsGH7oKRJj1gDP1fmeB3Q?pwd=p1jl)<br>
 
 ### Java
 [Java 8函数式编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%208%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)<br>
@@ -60,6 +66,23 @@
 [深入理解Nginx：模块开发与架构解析(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%EF%BC%9A%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90(%E7%AC%AC2%E7%89%88).pdf)<br>
 [重构_改善既有代码的设计.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E9%87%8D%E6%9E%84_%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1.pdf)<br>
 [阿里大佬总结的Java面试资料.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/interview/%E9%98%BF%E9%87%8C%E5%A4%A7%E4%BD%AC%E6%80%BB%E7%BB%93%E7%9A%84Java%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99.pdf)<br>
+[Java核心技术卷1：基础知识(第10版).pdf](https://pan.baidu.com/s/14J0yltLeIdlT0Ovj4hPqlQ?pwd=c783)<br>
+[Java核心技术卷2：高级特性(第10版).pdf](https://pan.baidu.com/s/1YSR0Yi97gj0AXJwCW48k7g?pwd=qbeg)<br>
+[码出高效Java开发手册.pdf](https://pan.baidu.com/s/12lAnW3tEvJRJ_0nik8G3Tg?pwd=su57)<br>
+[Effective Java 中文版.pdf](https://pan.baidu.com/s/1IFoH3rh4dPgEoTjAeanXog?pwd=z176)<br>
+[Java高并发编程详解-多线程与架构设计.pdf](https://pan.baidu.com/s/1F2MBFufGIuz7RLXLHpBe2A?pwd=gx8o)<br>
+[Java性能优化权威指南.pdf](https://pan.baidu.com/s/1rIKgRoDXWzd7Pt5MzqGjKQ?pwd=uy7p)<br>
+[Spring源码深度解析(第2版).pdf](https://pan.baidu.com/s/1rcYA6mCu3GBCAlR93YeSlw?pwd=7s0v)<br>
+[揭秘Java虚拟机-JVM设计原理与实现.pdf](https://pan.baidu.com/s/1D7RxXBUvJd480kTh8sDSwg?pwd=c9ug)<br>
+[深入理解Java虚拟机 JVM高级特性与最佳实践.pdf](https://pan.baidu.com/s/1HAFeHCGeoxKMKL4YWd3LDg?pwd=qgwe)<br>
+[Apache Kafka实战.pdf](https://pan.baidu.com/s/1G4C2AP19WJz-7d4ij2i5KQ?pwd=q5nk)<br>
+[RocketMQ实战与原理解析.pdf](https://pan.baidu.com/s/1VHFnsw79cjtMeWSFMbutRA?pwd=6kg0)<br>
+[Spring Cloud微服务实战.pdf](https://pan.baidu.com/s/1ZXDgEC2iNeLudTyW101zJg?pwd=8nnq)<br>
+[从Paxos到Zookeeper  分布式一致性原理与实践.pdf](https://pan.baidu.com/s/1G7rm2ZIqE20DMP0Qgi935Q?pwd=l90t)<br>
+[大型网站技术架构演进与性能优化.pdf](https://pan.baidu.com/s/1rl_CwrR1KdWySXW1Auae8A?pwd=8qlh)<br>
+[分布式服务架构：原理、设计与实战.pdf](https://pan.baidu.com/s/1frAY9x-yrThLvmZX2EyP2A?pwd=8x9a)<br>
+[亿级流量网站架构核心技术.pdf](https://pan.baidu.com/s/1aDiMdb88HcmPQ0piaYyuFw?pwd=hrxr)<br>
+
 ### Scala
   [Scala-in-Depth.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala-in-Depth.pdf)<br>
   [Scala函数式编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)<br>
@@ -76,6 +99,7 @@
   [More Effective C++中文版.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/More%20Effective%20C%2B%2B%E4%B8%AD%E6%96%87%E7%89%88.pdf)<br>
   [STL源码剖析.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/STL%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf)<br>
   [深度探索C++对象模型.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/c%2B%2B/%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2C%2B%2B%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B.pdf)<br>
+  [C++ Primer Plus(第6版).pdf](https://pan.baidu.com/s/1LarSjcx4pMamxfmMEHnTng?pwd=hsl3)<br>
 ### Python
   [Python Crash Course 2nd.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/Python%20Crash%20Course%202nd.pdf)<br>
   [Python深度学习.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)<br>
@@ -85,6 +109,7 @@
   [GO专家编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/GO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.pdf)<br> 
   [Go Web 编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)<br>
   [Go语言实战.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)<br>
+  [GO程序设计语言.pdf](https://pan.baidu.com/s/1GFSSPZW9CMEs0_71GkwvcQ?pwd=tejj)<br>
  ### 前端
 [ECMAScript 6入门.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/ECMAScript%206%E5%85%A5%E9%97%A8.pdf)<br>
      [Effective JavaScript.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/Effective%20JavaScript.pdf)<br>
@@ -97,6 +122,8 @@
      [深入浅出Nodejs.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANodejs.pdf)<br>
      [深入理解ES6.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3ES6.pdf)<br>
      [精通正则表达式(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/front-end/%E7%B2%BE%E9%80%9A%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F(%E7%AC%AC3%E7%89%88).pdf)<br>
+     [JavaScript DOM编程艺术(第2版).pdf](https://pan.baidu.com/s/1DW-LHNnBK4HHsE4o78XYZQ?pwd=5tpl)<br>
+     [锋利的jQuery.pdf](https://pan.baidu.com/s/1Z0qGNZBjw7laRxuA6fIk_Q?pwd=9zj0)<br>
 
 
  ### 计算机网络
@@ -106,6 +133,8 @@
 [图解HTTP.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/%E5%9B%BE%E8%A7%A3HTTP.pdf)<br>
 [图解TCP-IP.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/%E5%9B%BE%E8%A7%A3TCP-IP.pdf)<br>
 [计算机网络-第7版-谢希仁.pdf](https://github.com/HangboQuan/cs-books/blob/master/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E7%AC%AC7%E7%89%88-%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf)<br>
+[TCP-IP详解卷1：协议 原书第2版.pdf](https://pan.baidu.com/s/1tJyyvyRjkM2LPLvQFaCwCQ?pwd=kgdg)<br>
+[计算机网络-自顶向下方法.pdf](https://pan.baidu.com/s/18yXUsvD8OnosCMuJoMLQ6g?pwd=2alt)<br>
 
  ### 操作系统
 [Linux内核设计与实现(第三版).pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0(%E7%AC%AC%E4%B8%89%E7%89%88).pdf)<br>
@@ -114,6 +143,7 @@
 [深入理解Linux内核.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Linux%E5%86%85%E6%A0%B8.pdf)<br>
 [现代操作系统.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E7%8E%B0%E4%BB%A3%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)<br>
 [程序员自我修养.pdf](https://github.com/HangboQuan/cs-books/blob/master/operate-system/%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB.pdf)<br>
+[深入理解计算机系统第三版.pdf](https://pan.baidu.com/s/1mLa9TluNsugrL4O_wtxsAw?pwd=tj8f)<br>
 
 ### Redis
 [Redis实战.pdf](https://github.com/HangboQuan/cs-books/blob/master/redis/Redis%E5%AE%9E%E6%88%98.pdf)<br>
@@ -149,3 +179,34 @@
 [薄冰英语语法.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E8%96%84%E5%86%B0%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95.pdf)<br>
 [要你命3000.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E8%A6%81%E4%BD%A0%E5%91%BD3000.pdf)<br>
 
+### 设计模式
+[设计模式之禅.pdf](https://github.com/HangboQuan/cs-books/blob/master/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85.pdf)<br>
+
+### Linux
+[性能之巅 洞悉系统、企业与云计算.pdf](https://pan.baidu.com/s/13X7-v9fAl04VRY5JIOTz0Q?pwd=rlow)<br>
+
+备份数据：https://pan.baidu.com/s/1B7QAjzo9Vann5T9V4oYBgA  (提取码：u7l5)
+
+<a id='head'>ALIBABA招聘要求</a>
+> 1~3年经验
+> 1. Java基础扎实，熟悉web应用开发，对于Java基础技术体系(多线程、IO、网络、反射、集合)有一定的掌握和应用<br>
+> 2. 扎实的Java编程基础，熟悉应用Java生态相关开源框架以及中间件(Spring、Mybatis、Cache、Dubbo等)，有深入运用、实践、重构经验者优先<br>
+> 3. 熟悉分布式系统的设计和应用，熟悉分布式、缓存、消息等机制；能对分布式常用技术合理应用，解决问题<br>
+> 4. 熟练掌握海量数据处理技术，有使用Hadoop、Hive、Spark、Flink分析海量数据的经验优先考虑<br>
+> 5. 有微服务、消息、缓存中间件的使用经验，对你用过的开源框架，能了解到它的原理和机制<br>
+> 6. 深入掌握JVM原理，有性能调优和问题排查经验者优先<br>
+> 7. 有技术热情和较强的学习能力，对于新技术有浓烈的好奇心，能够深入了解开源技术、现有系统技术等相关技术原理，有很好的问题分析和攻关能力，具有良好的团队合作能力、沟通能力、抗压能力<br>
+> 8. 有较强的逻辑思维能力，善于分析、归纳、解决问题，能持续学习和总结分享，自我迭代<br>
+> 9. 具备良好的自学能力，需要提供自身案例助证，将重点考核<br>
+
+
+> 3~5年+经验
+> 1. 精通web编程、Java基础扎实、熟练掌握spring、mybatis、mysql以及java中间件等，对大数据处理有相关了解
+> 2. 理解IO、多线程、集合等基础框架，熟悉Spring等开源框架，对JVM原理有一定的了解，具备良好的技术能力和架构能力，熟悉数据库/工程中间件等技术，能够独立完成架构设计及研发
+> 3. 具备良好的技术能力和架构能力，有服务系统设计和核心代码开发的经验，有微服务架构拆分和治理经验，具备良好的领域驱动设计和架构能力
+> 4. 有大规模高并发互联网应用的架构设计和研发运维经验，熟悉常规的分布式架构，熟悉缓存，消息队列等开源中间件，熟悉各种关系、NoSql数据库，熟悉大数据系统体系，有云原生系统经验
+> 5. 对设计模式、Java后端开发有深入理解及应用能力，熟悉分布式、缓存、消息等机制，能对分布式常用技术进行合理应用
+> 6. 掌握常用的设计模式，有中大型应用的开发经验，具备应对大数据、分布式、高并发、高负载、高可用性等系统设计能力
+> 7. 具有一定的复杂业务系统研发，线上优化经验，有搜索推荐、广告系统，大数据、业务工程体系、交易、订单、用户、优惠、ugc内容、电商、酒旅、O2O等业务工作经验和系统架构经验工作经验优先
+> 8. 对电商行业有深入理解，优秀的沟通和团队协作能力，能从技术趋势和思路上影响并带领团队，能够在复杂的局面下带领团队分阶段拿到好结果。有在国内外一线互联网公司担任核心技术架构师或者技术管理者优先
+> 9. 有良好的技术远景，有开源项目，技术分享经验者优先
