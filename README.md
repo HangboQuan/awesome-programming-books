@@ -188,7 +188,7 @@
 
 备份数据：https://pan.baidu.com/s/1B7QAjzo9Vann5T9V4oYBgA  (提取码：u7l5)
 
-<strong><a id='head'>ALIBABA招聘要求</a><strong>
+<a id='head'>ALIBABA招聘要求</a>
 > 1~3年经验
 > 1. Java基础扎实，熟悉web应用开发，对于Java基础技术体系(多线程、IO、网络、反射、集合)有一定的掌握和应用<br>
 > 2. 扎实的Java编程基础，熟悉应用Java生态相关开源框架以及中间件(Spring、Mybatis、Cache、Dubbo等)，有深入运用、实践、重构经验者优先<br>
