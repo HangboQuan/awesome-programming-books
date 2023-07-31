@@ -83,6 +83,7 @@
 [分布式服务架构：原理、设计与实战.pdf](https://pan.baidu.com/s/1frAY9x-yrThLvmZX2EyP2A?pwd=8x9a)<br>
 [亿级流量网站架构核心技术.pdf](https://pan.baidu.com/s/1aDiMdb88HcmPQ0piaYyuFw?pwd=hrxr)<br>
 [nacos架构与原理.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/nacos%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86.pdf)<br>
+[2022年美团技术年货.pdf](https://pan.baidu.com/s/1HDI0R-zxUuxIEd4qIVH-Mg?pwd=68gj)<br>
 
 ### Scala
   [Scala-in-Depth.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala-in-Depth.pdf)<br>
