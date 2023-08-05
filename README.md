@@ -36,6 +36,7 @@
 [编程珠玑(第2版).pd](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(%E7%AC%AC2%E7%89%88).pdf)<br>
 [labuladong的算法小抄官方完整版.pdf](https://pan.baidu.com/s/1VbpB9GoDjcHbLtJmPRhDKw?pwd=9h56)<br>
 [算法导论(第三版).pdf](https://pan.baidu.com/s/1uPsGH7oKRJj1gDP1fmeB3Q?pwd=p1jl)<br>
+[算法笔记(胡凡_曾磊著).pdf](https://pan.baidu.com/s/1-bU5DYR4ag3vYl7ntRM94w?pwd=aehw)
 
 ### Java
 [Java 8函数式编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%208%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)<br>
