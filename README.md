@@ -16,6 +16,7 @@
 [计算之魂.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E8%AE%A1%E7%AE%97%E4%B9%8B%E9%AD%82.pdf)<br>
 [计算机是怎样跑起来的.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.pdf)<br>
 [计算机程序的构造和解释(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A(%E7%AC%AC2%E7%89%88).pdf)<br>
+[恶意代码分析实战.pdf](https://pan.baidu.com/s/1FhbrIR4-WHAkzWC1vz20Hw?pwd=r94b)<br>
 
 
 ### 数据结构和算法
@@ -36,7 +37,8 @@
 [编程珠玑(第2版).pd](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(%E7%AC%AC2%E7%89%88).pdf)<br>
 [labuladong的算法小抄官方完整版.pdf](https://pan.baidu.com/s/1VbpB9GoDjcHbLtJmPRhDKw?pwd=9h56)<br>
 [算法导论(第三版).pdf](https://pan.baidu.com/s/1uPsGH7oKRJj1gDP1fmeB3Q?pwd=p1jl)<br>
-[算法笔记(胡凡_曾磊著).pdf](https://pan.baidu.com/s/1-bU5DYR4ag3vYl7ntRM94w?pwd=aehw)
+[趣学算法.pdf](https://pan.baidu.com/s/18oG_s_lUZJBw87b3wInb1Q?pwd=1qwz)<br>
+[算法笔记(胡凡_曾磊著).pdf](https://pan.baidu.com/s/1-bU5DYR4ag3vYl7ntRM94w?pwd=aehw)<br>
 
 ### Java
 [Java 8函数式编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%208%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)<br>
@@ -85,6 +87,8 @@
 [亿级流量网站架构核心技术.pdf](https://pan.baidu.com/s/1aDiMdb88HcmPQ0piaYyuFw?pwd=hrxr)<br>
 [nacos架构与原理.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/nacos%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86.pdf)<br>
 [2022年美团技术年货.pdf](https://pan.baidu.com/s/1HDI0R-zxUuxIEd4qIVH-Mg?pwd=68gj)<br>
+[2021年美团技术年货.pdf](https://pan.baidu.com/s/1AfOuhXhqMmfwS0ftU4V0yw?pwd=lc15)<br>
+[2020年美团技术年货.pdf](https://pan.baidu.com/s/1LHPclAbLrM4Do6-JBTQRUQ?pwd=e83e)<br>
 
 ### Scala
   [Scala-in-Depth.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala-in-Depth.pdf)<br>
@@ -108,6 +112,8 @@
   [Python深度学习.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)<br>
   [python编程从入门到实践(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5(%E7%AC%AC2%E7%89%88).pdf)<br>
   [流畅的python.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)<br>
+  [Python机器学习及实践_从零开始通往Kaggle竞赛之路](https://pan.baidu.com/s/1NCxkHo96hOOGecdpEe73sQ?pwd=vu98)
+  [深入浅出Python机器学习.pdf](https://pan.baidu.com/s/1KXFiRDqmSF7NS-G_ILOb1w?pwd=zb3v)
 ### Go
   [GO专家编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/GO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.pdf)<br> 
   [Go Web 编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)<br>
