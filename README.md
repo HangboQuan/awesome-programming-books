@@ -166,6 +166,7 @@
 [SQL必知必会(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/SQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A(%E7%AC%AC3%E7%89%88).pdf)<br>
 [高可用MySQL 构建健壮的数据中心.pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/%E9%AB%98%E5%8F%AF%E7%94%A8MySQL%20%E6%9E%84%E5%BB%BA%E5%81%A5%E5%A3%AE%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.pdf)<br>
 [高性能mysql第三版.pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/%E9%AB%98%E6%80%A7%E8%83%BDmysql%E7%AC%AC%E4%B8%89%E7%89%88.pdf)<br>
+[MySQL是怎样运行的(从根上理解MySQL).pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/sql/MySQL%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%90%E8%A1%8C%E7%9A%84%EF%BC%9A%E4%BB%8E%E6%A0%B9%E5%84%BF%E4%B8%8A%E7%90%86%E8%A7%A3MySQL.pdf)<br>
 
 ### 数学
 [具体数学.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6.pdf)<br>
