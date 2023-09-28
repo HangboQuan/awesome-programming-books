@@ -39,6 +39,8 @@
 [算法导论(第三版).pdf](https://pan.baidu.com/s/1uPsGH7oKRJj1gDP1fmeB3Q?pwd=p1jl)<br>
 [趣学算法.pdf](https://pan.baidu.com/s/18oG_s_lUZJBw87b3wInb1Q?pwd=1qwz)<br>
 [算法笔记(胡凡_曾磊著).pdf](https://pan.baidu.com/s/1-bU5DYR4ag3vYl7ntRM94w?pwd=aehw)<br>
+[世界大学生设计竞赛(程序设计中常用的设计思维方式).pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/algorithm/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B(%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4%E6%96%B9%E5%BC%8F).pdf)<br>
+[算法竞赛进阶指南(李煜东著)](https://pan.baidu.com/s/1wdvWyxNsNcYJ3DCMZeX30A?pwd=ccw8)<br>
 
 ### Java
 [Java 8函数式编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%208%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)<br>
