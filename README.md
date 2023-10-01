@@ -197,6 +197,9 @@
 ### Linux
 [性能之巅 洞悉系统、企业与云计算.pdf](https://pan.baidu.com/s/13X7-v9fAl04VRY5JIOTz0Q?pwd=rlow)<br>
 
+### 读书思考
+[美团王欣饭否合集.pdf](https://pan.baidu.com/s/1yC_sEKwK5Qk_u0KvEfeQeQ?pwd=hvxw)<br>
+
 备份数据：https://pan.baidu.com/s/1B7QAjzo9Vann5T9V4oYBgA  (提取码：u7l5)
 
 <a id='head'>ALIBABA招聘要求</a>
