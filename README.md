@@ -202,6 +202,9 @@
 ### Linux
 [性能之巅 洞悉系统、企业与云计算.pdf](https://pan.baidu.com/s/13X7-v9fAl04VRY5JIOTz0Q?pwd=rlow)<br>
 
+### 运维
+[大厂SRE体系化实践思考.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/computer-common/%E5%A4%A7%E5%8E%82SRE%E7%9A%84%E4%BD%93%E7%B3%BB%E5%8C%96%E5%AE%9E%E8%B7%B5%E6%80%9D%E8%80%83_%E9%AB%98%E5%88%A9%E7%BB%AA.pdf)<br>
+
 ### 读书思考
 [美团王欣饭否合集.pdf](https://pan.baidu.com/s/1yC_sEKwK5Qk_u0KvEfeQeQ?pwd=hvxw)<br>
 
