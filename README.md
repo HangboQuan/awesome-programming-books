@@ -59,10 +59,14 @@
 [Java性能权威指南.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Java%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)<br>
 [Spring技术内幕：深入解析Spring架构与设计原理.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Spring%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%EF%BC%9A%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90Spring%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86.pdf)<br>
 [图解Java多线程设计模式.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E5%9B%BE%E8%A7%A3Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)<br>
+[Java并发实现原理_JDK源码解析.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/Java%E5%B9%B6%E5%8F%91%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86_JDK%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf)<br>
 [实战Java高并发程序设计.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E5%AE%9E%E6%88%98Java%E9%AB%98%E5%B9%B6%E5%8F%91%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf)<br>
 [精通Spring.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E7%B2%BE%E9%80%9ASpring.pdf)<br>
 [实战Java虚拟机 JVM故障诊断与性能优化.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/jvm/%E5%AE%9E%E6%88%98Java%E8%99%9A%E6%8B%9F%E6%9C%BA%20%20JVM%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf)<br>
 [深入理解Java虚拟机 JVM高级特性与最佳实践(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/jvm/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%20JVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5(%E7%AC%AC3%E7%89%88).pdf)<br>
+[Netty权威指南.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/Netty%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)<br>
+[七周七并发模型.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/%E4%B8%83%E5%91%A8%E4%B8%83%E5%B9%B6%E5%8F%91%E6%A8%A1%E5%9E%8B.pdf)<br>
+[Netty实战.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/Netty%E5%AE%9E%E6%88%98.pdf)<br>
 [RabbitMQ实战 高效部署分布式消息队列.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/RabbitMQ%E5%AE%9E%E6%88%98%20%E9%AB%98%E6%95%88%E9%83%A8%E7%BD%B2%E5%88%86%E5%B8%83%E5%BC%8F%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97.pdf)<br>
 [ZooKeeper-分布式过程协同技术详解.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/ZooKeeper-%E5%88%86%E5%B8%83%E5%BC%8F%E8%BF%87%E7%A8%8B%E5%8D%8F%E5%90%8C%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.pdf)<br>
 [一线架构师实践指南(温昱).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E4%B8%80%E7%BA%BF%E6%9E%B6%E6%9E%84%E5%B8%88%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97(%E6%B8%A9%E6%98%B1).pdf)<br>
@@ -193,6 +197,7 @@
 
 ### 设计模式
 [设计模式之禅.pdf](https://github.com/HangboQuan/cs-books/blob/master/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85.pdf)<br>
+[设计模式_可复用面向对象软件的基础.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%8F%AF%E5%A4%8D%E7%94%A8%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80.pdf)<br>
 
 ### Linux
 [性能之巅 洞悉系统、企业与云计算.pdf](https://pan.baidu.com/s/13X7-v9fAl04VRY5JIOTz0Q?pwd=rlow)<br>
