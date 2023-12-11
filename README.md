@@ -208,6 +208,13 @@
 ### 读书思考
 [美团王欣饭否合集.pdf](https://pan.baidu.com/s/1yC_sEKwK5Qk_u0KvEfeQeQ?pwd=hvxw)<br>
 
+### 技术分享
+[2018携程技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/2018%E6%90%BA%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
+[2019携程技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/2019%E6%90%BA%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
+[202307阿里巴巴技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/202307%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
+[201912全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitbeijing201912)<br>
+
+
 备份数据：https://pan.baidu.com/s/1B7QAjzo9Vann5T9V4oYBgA  (提取码：u7l5)
 
 <a id='head'>ALIBABA招聘要求</a>
