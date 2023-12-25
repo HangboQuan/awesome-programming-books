@@ -84,6 +84,9 @@
 [Spring源码深度解析(第2版).pdf](https://pan.baidu.com/s/1rcYA6mCu3GBCAlR93YeSlw?pwd=7s0v)<br>
 [揭秘Java虚拟机-JVM设计原理与实现.pdf](https://pan.baidu.com/s/1D7RxXBUvJd480kTh8sDSwg?pwd=c9ug)<br>
 [深入理解Java虚拟机 JVM高级特性与最佳实践.pdf](https://pan.baidu.com/s/1HAFeHCGeoxKMKL4YWd3LDg?pwd=qgwe)<br>
+[JSR133中文版.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/jvm/JSR133%E4%B8%AD%E6%96%87%E7%89%88.pdf)<br>
+[JVM调优总结.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/jvm/JVM%E8%B0%83%E4%BC%98%E6%80%BB%E7%BB%93.pdf)<br>
+[深入理解Java内存模型(程晓明).pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/jvm/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B-%E7%A8%8B%E6%99%93%E6%98%8E.pdf)<br>
 [Apache Kafka实战.pdf](https://pan.baidu.com/s/1G4C2AP19WJz-7d4ij2i5KQ?pwd=q5nk)<br>
 [RocketMQ实战与原理解析.pdf](https://pan.baidu.com/s/1VHFnsw79cjtMeWSFMbutRA?pwd=6kg0)<br>
 [Spring Cloud微服务实战.pdf](https://pan.baidu.com/s/1ZXDgEC2iNeLudTyW101zJg?pwd=8nnq)<br>
@@ -95,6 +98,8 @@
 [2022年美团技术年货.pdf](https://pan.baidu.com/s/1HDI0R-zxUuxIEd4qIVH-Mg?pwd=68gj)<br>
 [2021年美团技术年货.pdf](https://pan.baidu.com/s/1AfOuhXhqMmfwS0ftU4V0yw?pwd=lc15)<br>
 [2020年美团技术年货.pdf](https://pan.baidu.com/s/1LHPclAbLrM4Do6-JBTQRUQ?pwd=e83e)<br>
+[2017年阿里技术年度精选集上.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/2017%E9%98%BF%E9%87%8C%E6%8A%80%E6%9C%AF%E5%B9%B4%E5%BA%A6%E7%B2%BE%E9%80%89%E9%9B%86%E4%B8%8A.pdf)<br>
+[2017年阿里技术年度精选集下.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/2017%E9%98%BF%E9%87%8C%E6%8A%80%E6%9C%AF%E5%B9%B4%E5%BA%A6%E7%B2%BE%E9%80%89%E9%9B%86%E4%B8%8B.pdf)<br>
 
 ### Scala
   [Scala-in-Depth.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala-in-Depth.pdf)<br>
