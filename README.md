@@ -217,7 +217,17 @@
 [2018携程技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/2018%E6%90%BA%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
 [2019携程技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/2019%E6%90%BA%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
 [202307阿里巴巴技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/202307%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
-[201912全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitbeijing201912)<br>
+[202303北京全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitbeijing202303)<br>
+[202304上海全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshanghai202304)<br>
+[202307深圳全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshenzhen202307)<br>
+[202207深圳全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshenzhen202207)<br>
+[202209杭州全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummithangzhou202209)<br>
+[202104上海全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshanghai202104)<br>
+[202111深圳全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshenzhen202111)<br>
+[201912北京全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitbeijing201912)<br>
+更多国内互联网大厂技术分享资料: https://github.com/davideuler/architecture.of.internet-product
+
+
 
 
 备份数据：https://pan.baidu.com/s/1B7QAjzo9Vann5T9V4oYBgA  (提取码：u7l5)
