@@ -212,6 +212,7 @@
 
 ### 读书思考
 [美团王欣饭否合集.pdf](https://pan.baidu.com/s/1yC_sEKwK5Qk_u0KvEfeQeQ?pwd=hvxw)<br>
+[暗时间 刘未鹏著.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/thinking/%E6%9A%97%E6%97%B6%E9%97%B4%20%E5%88%98%E6%9C%AA%E9%B9%8F%E8%91%97.pdf)<br>
 
 ### 技术分享
 [2018携程技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/2018%E6%90%BA%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
