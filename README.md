@@ -29,6 +29,7 @@
 [数据结构(清华大学C++语言版).pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84(%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6C%2B%2B%E8%AF%AD%E8%A8%80%E7%89%88).pdf)<br>
 [数据结构与算法(Java语言版).pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95(Java%E8%AF%AD%E8%A8%80%E7%89%88).pdf)<br>
 [漫画算法.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E6%BC%AB%E7%94%BB%E7%AE%97%E6%B3%95.pdf)<br>
+[挑战编程.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/algorithm/%E6%8C%91%E6%88%98%E7%BC%96%E7%A8%8B.pdf)<br>
 [算法(第四版).pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%AE%97%E6%B3%95(%E7%AC%AC%E5%9B%9B%E7%89%88).pdf)<br>
 [算法与数据结构题目最优解 ,左程云著.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E6%9C%80%E4%BC%98%E8%A7%A3%20%2C%E5%B7%A6%E7%A8%8B%E4%BA%91%E8%91%97.pdf)<br>
 [算法竞赛入门经典.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)<br>
@@ -213,6 +214,7 @@
 ### 读书思考
 [美团王欣饭否合集.pdf](https://pan.baidu.com/s/1yC_sEKwK5Qk_u0KvEfeQeQ?pwd=hvxw)<br>
 [暗时间 刘未鹏著.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/thinking/%E6%9A%97%E6%97%B6%E9%97%B4%20%E5%88%98%E6%9C%AA%E9%B9%8F%E8%91%97.pdf)<br>
+[请停止无效努力.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/thinking/%E8%AF%B7%E5%81%9C%E6%AD%A2%E6%97%A0%E6%95%88%E5%8A%AA%E5%8A%9B.pdf)<br>
 
 ### 技术分享
 [2018携程技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/2018%E6%90%BA%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
