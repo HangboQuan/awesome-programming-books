@@ -1,8 +1,8 @@
-# cs-books
-计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书。整理不易，对您有帮助的话，点个star支持一下吧，愿大家升值加薪，走上人生巅峰。<br><br>
+# cs-books & summit
+计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书以及大厂技术峰会PPT合集。整理不易，对您有帮助的话，点个star支持一下吧，愿你升值加薪，走上人生巅峰。<br><br>
 ***注：该仓库会不定时更新, 所有资料来源于互联网, 如有侵权请及时联系我删除***  ***<a href='#head'>迷茫救药</a>***<br><br>
 
-> 本人2021年毕业，后端研发工作于小米，主要语言为Java/Scala，负责小爱同学闲聊垂域和闲聊技能的研发工作<br>
+> 本人2021年毕业，小米后端研发工程师，主要语言为Java/Scala，负责小爱同学闲聊垂域和闲聊技能以及智能问答服务的后端研发工作<br>
 
 
 ### 计算机通识
@@ -16,6 +16,7 @@
 [计算之魂.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E8%AE%A1%E7%AE%97%E4%B9%8B%E9%AD%82.pdf)<br>
 [计算机是怎样跑起来的.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.pdf)<br>
 [计算机程序的构造和解释(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A(%E7%AC%AC2%E7%89%88).pdf)<br>
+[恶意代码分析实战.pdf](https://pan.baidu.com/s/1FhbrIR4-WHAkzWC1vz20Hw?pwd=r94b)<br>
 
 
 ### 数据结构和算法
@@ -28,6 +29,7 @@
 [数据结构(清华大学C++语言版).pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84(%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6C%2B%2B%E8%AF%AD%E8%A8%80%E7%89%88).pdf)<br>
 [数据结构与算法(Java语言版).pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95(Java%E8%AF%AD%E8%A8%80%E7%89%88).pdf)<br>
 [漫画算法.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E6%BC%AB%E7%94%BB%E7%AE%97%E6%B3%95.pdf)<br>
+[挑战编程.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/algorithm/%E6%8C%91%E6%88%98%E7%BC%96%E7%A8%8B.pdf)<br>
 [算法(第四版).pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%AE%97%E6%B3%95(%E7%AC%AC%E5%9B%9B%E7%89%88).pdf)<br>
 [算法与数据结构题目最优解 ,左程云著.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%A2%98%E7%9B%AE%E6%9C%80%E4%BC%98%E8%A7%A3%20%2C%E5%B7%A6%E7%A8%8B%E4%BA%91%E8%91%97.pdf)<br>
 [算法竞赛入门经典.pdf](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)<br>
@@ -36,6 +38,10 @@
 [编程珠玑(第2版).pd](https://github.com/HangboQuan/cs-books/blob/master/algorithm/%E7%BC%96%E7%A8%8B%E7%8F%A0%E7%8E%91(%E7%AC%AC2%E7%89%88).pdf)<br>
 [labuladong的算法小抄官方完整版.pdf](https://pan.baidu.com/s/1VbpB9GoDjcHbLtJmPRhDKw?pwd=9h56)<br>
 [算法导论(第三版).pdf](https://pan.baidu.com/s/1uPsGH7oKRJj1gDP1fmeB3Q?pwd=p1jl)<br>
+[趣学算法.pdf](https://pan.baidu.com/s/18oG_s_lUZJBw87b3wInb1Q?pwd=1qwz)<br>
+[算法笔记(胡凡_曾磊著).pdf](https://pan.baidu.com/s/1-bU5DYR4ag3vYl7ntRM94w?pwd=aehw)<br>
+[世界大学生设计竞赛(程序设计中常用的设计思维方式).pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/algorithm/%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B(%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4%E6%96%B9%E5%BC%8F).pdf)<br>
+[算法竞赛进阶指南(李煜东著)](https://pan.baidu.com/s/1wdvWyxNsNcYJ3DCMZeX30A?pwd=ccw8)<br>
 
 ### Java
 [Java 8函数式编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/base/Java%208%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)<br>
@@ -54,10 +60,14 @@
 [Java性能权威指南.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Java%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)<br>
 [Spring技术内幕：深入解析Spring架构与设计原理.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/Spring%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95%EF%BC%9A%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90Spring%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%AE%BE%E8%AE%A1%E5%8E%9F%E7%90%86.pdf)<br>
 [图解Java多线程设计模式.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E5%9B%BE%E8%A7%A3Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)<br>
+[Java并发实现原理_JDK源码解析.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/Java%E5%B9%B6%E5%8F%91%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86_JDK%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf)<br>
 [实战Java高并发程序设计.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E5%AE%9E%E6%88%98Java%E9%AB%98%E5%B9%B6%E5%8F%91%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf)<br>
 [精通Spring.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E7%B2%BE%E9%80%9ASpring.pdf)<br>
 [实战Java虚拟机 JVM故障诊断与性能优化.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/jvm/%E5%AE%9E%E6%88%98Java%E8%99%9A%E6%8B%9F%E6%9C%BA%20%20JVM%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf)<br>
 [深入理解Java虚拟机 JVM高级特性与最佳实践(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/jvm/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%20JVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5(%E7%AC%AC3%E7%89%88).pdf)<br>
+[Netty权威指南.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/Netty%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)<br>
+[七周七并发模型.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/%E4%B8%83%E5%91%A8%E4%B8%83%E5%B9%B6%E5%8F%91%E6%A8%A1%E5%9E%8B.pdf)<br>
+[Netty实战.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/Netty%E5%AE%9E%E6%88%98.pdf)<br>
 [RabbitMQ实战 高效部署分布式消息队列.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/RabbitMQ%E5%AE%9E%E6%88%98%20%E9%AB%98%E6%95%88%E9%83%A8%E7%BD%B2%E5%88%86%E5%B8%83%E5%BC%8F%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97.pdf)<br>
 [ZooKeeper-分布式过程协同技术详解.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/ZooKeeper-%E5%88%86%E5%B8%83%E5%BC%8F%E8%BF%87%E7%A8%8B%E5%8D%8F%E5%90%8C%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3.pdf)<br>
 [一线架构师实践指南(温昱).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E4%B8%80%E7%BA%BF%E6%9E%B6%E6%9E%84%E5%B8%88%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97(%E6%B8%A9%E6%98%B1).pdf)<br>
@@ -75,6 +85,9 @@
 [Spring源码深度解析(第2版).pdf](https://pan.baidu.com/s/1rcYA6mCu3GBCAlR93YeSlw?pwd=7s0v)<br>
 [揭秘Java虚拟机-JVM设计原理与实现.pdf](https://pan.baidu.com/s/1D7RxXBUvJd480kTh8sDSwg?pwd=c9ug)<br>
 [深入理解Java虚拟机 JVM高级特性与最佳实践.pdf](https://pan.baidu.com/s/1HAFeHCGeoxKMKL4YWd3LDg?pwd=qgwe)<br>
+[JSR133中文版.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/jvm/JSR133%E4%B8%AD%E6%96%87%E7%89%88.pdf)<br>
+[JVM调优总结.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/jvm/JVM%E8%B0%83%E4%BC%98%E6%80%BB%E7%BB%93.pdf)<br>
+[深入理解Java内存模型(程晓明).pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/jvm/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B-%E7%A8%8B%E6%99%93%E6%98%8E.pdf)<br>
 [Apache Kafka实战.pdf](https://pan.baidu.com/s/1G4C2AP19WJz-7d4ij2i5KQ?pwd=q5nk)<br>
 [RocketMQ实战与原理解析.pdf](https://pan.baidu.com/s/1VHFnsw79cjtMeWSFMbutRA?pwd=6kg0)<br>
 [Spring Cloud微服务实战.pdf](https://pan.baidu.com/s/1ZXDgEC2iNeLudTyW101zJg?pwd=8nnq)<br>
@@ -84,6 +97,10 @@
 [亿级流量网站架构核心技术.pdf](https://pan.baidu.com/s/1aDiMdb88HcmPQ0piaYyuFw?pwd=hrxr)<br>
 [nacos架构与原理.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/nacos%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86.pdf)<br>
 [2022年美团技术年货.pdf](https://pan.baidu.com/s/1HDI0R-zxUuxIEd4qIVH-Mg?pwd=68gj)<br>
+[2021年美团技术年货.pdf](https://pan.baidu.com/s/1AfOuhXhqMmfwS0ftU4V0yw?pwd=lc15)<br>
+[2020年美团技术年货.pdf](https://pan.baidu.com/s/1LHPclAbLrM4Do6-JBTQRUQ?pwd=e83e)<br>
+[2017年阿里技术年度精选集上.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/2017%E9%98%BF%E9%87%8C%E6%8A%80%E6%9C%AF%E5%B9%B4%E5%BA%A6%E7%B2%BE%E9%80%89%E9%9B%86%E4%B8%8A.pdf)<br>
+[2017年阿里技术年度精选集下.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/2017%E9%98%BF%E9%87%8C%E6%8A%80%E6%9C%AF%E5%B9%B4%E5%BA%A6%E7%B2%BE%E9%80%89%E9%9B%86%E4%B8%8B.pdf)<br>
 
 ### Scala
   [Scala-in-Depth.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/scala/Scala-in-Depth.pdf)<br>
@@ -107,6 +124,8 @@
   [Python深度学习.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/Python%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.pdf)<br>
   [python编程从入门到实践(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/python%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5(%E7%AC%AC2%E7%89%88).pdf)<br>
   [流畅的python.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)<br>
+  [Python机器学习及实践_从零开始通往Kaggle竞赛之路](https://pan.baidu.com/s/1NCxkHo96hOOGecdpEe73sQ?pwd=vu98)
+  [深入浅出Python机器学习.pdf](https://pan.baidu.com/s/1KXFiRDqmSF7NS-G_ILOb1w?pwd=zb3v)
 ### Go
   [GO专家编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/GO%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.pdf)<br> 
   [Go Web 编程.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/go/Go%20Web%20%E7%BC%96%E7%A8%8B.pdf)<br>
@@ -159,6 +178,7 @@
 [SQL必知必会(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/SQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A(%E7%AC%AC3%E7%89%88).pdf)<br>
 [高可用MySQL 构建健壮的数据中心.pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/%E9%AB%98%E5%8F%AF%E7%94%A8MySQL%20%E6%9E%84%E5%BB%BA%E5%81%A5%E5%A3%AE%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.pdf)<br>
 [高性能mysql第三版.pdf](https://github.com/HangboQuan/cs-books/blob/master/sql/%E9%AB%98%E6%80%A7%E8%83%BDmysql%E7%AC%AC%E4%B8%89%E7%89%88.pdf)<br>
+[MySQL是怎样运行的(从根上理解MySQL).pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/sql/MySQL%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%90%E8%A1%8C%E7%9A%84%EF%BC%9A%E4%BB%8E%E6%A0%B9%E5%84%BF%E4%B8%8A%E7%90%86%E8%A7%A3MySQL.pdf)<br>
 
 ### 数学
 [具体数学.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6.pdf)<br>
@@ -183,9 +203,35 @@
 
 ### 设计模式
 [设计模式之禅.pdf](https://github.com/HangboQuan/cs-books/blob/master/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E7%A6%85.pdf)<br>
+[设计模式_可复用面向对象软件的基础.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%8F%AF%E5%A4%8D%E7%94%A8%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E7%A1%80.pdf)<br>
 
 ### Linux
 [性能之巅 洞悉系统、企业与云计算.pdf](https://pan.baidu.com/s/13X7-v9fAl04VRY5JIOTz0Q?pwd=rlow)<br>
+
+### 运维
+[大厂SRE体系化实践思考.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/computer-common/%E5%A4%A7%E5%8E%82SRE%E7%9A%84%E4%BD%93%E7%B3%BB%E5%8C%96%E5%AE%9E%E8%B7%B5%E6%80%9D%E8%80%83_%E9%AB%98%E5%88%A9%E7%BB%AA.pdf)<br>
+
+### 读书思考
+[美团王欣饭否合集.pdf](https://pan.baidu.com/s/1yC_sEKwK5Qk_u0KvEfeQeQ?pwd=hvxw)<br>
+[暗时间 刘未鹏著.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/thinking/%E6%9A%97%E6%97%B6%E9%97%B4%20%E5%88%98%E6%9C%AA%E9%B9%8F%E8%91%97.pdf)<br>
+[请停止无效努力.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/thinking/%E8%AF%B7%E5%81%9C%E6%AD%A2%E6%97%A0%E6%95%88%E5%8A%AA%E5%8A%9B.pdf)<br>
+
+### 技术分享
+[2018携程技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/2018%E6%90%BA%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
+[2019携程技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/2019%E6%90%BA%E7%A8%8B%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
+[202307阿里巴巴技术峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/202307%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%8A%80%E6%9C%AF%E5%B3%B0%E4%BC%9A)<br>
+[202303北京全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitbeijing202303)<br>
+[202304上海全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshanghai202304)<br>
+[202307深圳全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshenzhen202307)<br>
+[202207深圳全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshenzhen202207)<br>
+[202209杭州全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummithangzhou202209)<br>
+[202104上海全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshanghai202104)<br>
+[202111深圳全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitshenzhen202111)<br>
+[201912北京全球架构师峰会](https://github.com/HangboQuan/awesome-programming-books/tree/master/summit/archsummitbeijing201912)<br>
+更多国内互联网大厂技术分享资料: https://github.com/davideuler/architecture.of.internet-product
+
+
+
 
 备份数据：https://pan.baidu.com/s/1B7QAjzo9Vann5T9V4oYBgA  (提取码：u7l5)
 
