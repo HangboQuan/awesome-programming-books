@@ -197,6 +197,8 @@
 [统计学习方法(第2版)李航.pdf](https://github.com/HangboQuan/cs-books/blob/master/math/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95(%E7%AC%AC2%E7%89%88)%E6%9D%8E%E8%88%AA.pdf)<br>
 
 ### 英语
+[100个句子记完7000个雅思单词.pdf](https://pan.baidu.com/s/1GUoXIOVtI_V0e1CVc5etow?pwd=gxzz)<br>
+[TOFEL词汇词根联想记忆法(托福绿宝书).pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/computer-english/TOEFL%E8%AF%8D%E6%B1%87%E8%AF%8D%E6%A0%B9%E8%81%94%E6%83%B3%E8%AE%B0%E5%BF%86%E6%B3%95%EF%BC%88%E6%89%98%E7%A6%8F%E7%BB%BF%E5%AE%9D%E4%B9%A6%EF%BC%89.pdf)<br>
 [再要你命3000.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E5%86%8D%E8%A6%81%E4%BD%A0%E5%91%BD3000.pdf)<br>
 [薄冰英语语法.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E8%96%84%E5%86%B0%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95.pdf)<br>
 [要你命3000.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-english/%E8%A6%81%E4%BD%A0%E5%91%BD3000.pdf)<br>
