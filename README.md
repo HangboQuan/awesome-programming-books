@@ -94,6 +94,7 @@
 [从Paxos到Zookeeper  分布式一致性原理与实践.pdf](https://pan.baidu.com/s/1G7rm2ZIqE20DMP0Qgi935Q?pwd=l90t)<br>
 [大型网站技术架构演进与性能优化.pdf](https://pan.baidu.com/s/1rl_CwrR1KdWySXW1Auae8A?pwd=8qlh)<br>
 [分布式服务架构：原理、设计与实战.pdf](https://pan.baidu.com/s/1frAY9x-yrThLvmZX2EyP2A?pwd=8x9a)<br>
+[图解支付系统设计与实现.pdf](https://pan.baidu.com/s/1qTiiyLli24f3nUXH4aPUiA?pwd=ssh9)<br>
 [亿级流量网站架构核心技术.pdf](https://pan.baidu.com/s/1aDiMdb88HcmPQ0piaYyuFw?pwd=hrxr)<br>
 [nacos架构与原理.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/nacos%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%8E%9F%E7%90%86.pdf)<br>
 [2022年美团技术年货.pdf](https://pan.baidu.com/s/1HDI0R-zxUuxIEd4qIVH-Mg?pwd=68gj)<br>
