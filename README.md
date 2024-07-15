@@ -2,12 +2,6 @@
 计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书以及大厂技术峰会PPT合集。整理不易，对您有帮助的话，点个star支持一下吧，愿你升值加薪，走上人生巅峰。<br><br>
 ***注：该仓库会不定时更新, 所有资料来源于互联网, 如有侵权请及时联系我删除***  ***<a href='#head'>迷茫救药</a>***<br><br>
 
-> About Me<br>
-> 2017.09 ～ 2021.07 西安科技大学 物联网工程 （普通本科）<br>
-> 2021.07 ～ 2024.02 小米-集团技术委员会，主要语言为Java/Scala，负责小爱同学闲聊垂域和闲聊技能以及智能问答服务的后端研发工作<br>
-> 2024.03 ～ 至今 哈啰-普惠用车事业部，主要语言为Java，负责哈啰顺风车主流程的后端研发工作<br>
-
-
 ### 计算机通识
 [代码大全(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8(%E7%AC%AC2%E7%89%88).pdf)<br>
 [代码整洁之道.pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E4%BB%A3%E7%A0%81%E6%95%B4%E6%B4%81%E4%B9%8B%E9%81%93.pdf)<br>
