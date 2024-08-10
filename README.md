@@ -264,3 +264,21 @@
 阿里职级体系
 
 ![image](https://static001.geekbang.org/resource/image/8c/8d/8c4d083304cfe1ffded18fb672ce288d.jpg)
+
+阿里职级对应职责
+
+P5
+
+![image](https://static001.geekbang.org/resource/image/23/cb/23c0be2ed081295c4025e9a02bba15cb.jpg)
+
+P6
+
+![image](https://static001.geekbang.org/resource/image/b1/b3/b17de285a21b8aa5080ea79b4ac188b3.jpg)
+
+P7
+
+![image](https://static001.geekbang.org/resource/image/66/b1/665669704765b1fcyy16bb1b86dd82b1.jpg)
+
+P8/P9
+
+![image](https://static001.geekbang.org/resource/image/70/a1/701e514a2c5cdc6273b2244ab50b97a1.jpg)
